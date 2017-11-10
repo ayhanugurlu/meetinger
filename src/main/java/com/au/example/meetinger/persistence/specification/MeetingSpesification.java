@@ -1,4 +1,4 @@
-package com.au.example.meetinger.persistence.spesification;
+package com.au.example.meetinger.persistence.specification;
 
 import javax.persistence.criteria.Join;
 import javax.persistence.criteria.JoinType;

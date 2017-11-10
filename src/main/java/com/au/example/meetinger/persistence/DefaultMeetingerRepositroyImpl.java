@@ -21,7 +21,7 @@ import com.au.example.meetinger.persistence.repository.ItemTypeRepository;
 import com.au.example.meetinger.persistence.repository.MeetingRepository;
 import com.au.example.meetinger.persistence.repository.MeetingUserTokenRepository;
 import com.au.example.meetinger.persistence.repository.UserRepository;
-import com.au.example.meetinger.persistence.spesification.MeetingSpesification;
+import com.au.example.meetinger.persistence.specification.MeetingSpesification;
 import com.google.common.collect.Lists;
 
 @Repository
